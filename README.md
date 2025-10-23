@@ -2,7 +2,7 @@
 
 Bash script to send all the files in a folder to VirusTotal for analysis.
 
-Some antivirus solutions for Linux are either too complex or inaccurate, especially for file formats that are not native to the OS. To address this, I created this simple script that scans an entire folder and identifies all files of a given format (e.g., `.exe` and `.dll`). These file types are among the most dangerous on a Linux system that uses Wine or handles Windows files.
+Some antivirus solutions for Linux are either too complex or inaccurate, especially for file formats that are not native to the OS. To address this, I created this simple script that scans an entire folder and identifies all files of a given format (e.g., `.exe` and `.dll`). The formats can be specified by editing the script.
 
 ![File Format](https://github.com/user-attachments/assets/d2758fb9-7322-4eba-a351-d807cbced67f)
 
